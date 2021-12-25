@@ -7,9 +7,9 @@ categories: post
 Hi! I am a first year Master's student in Aerospace Engineering at the University of Michigan. I completed my bachelor's for the Indian Institute of Technology, Bombay with Honors in Aerospace Engineering and a minor degree in Computer Science and Engineering. 
 
 You can find me on 
-[LinkedIn][https://www.linkedin.com/in/malhar-prajapati/], 
-[Github][https://github.com/malhardp],  
-[Email][malhardp@umich.edu]
+[LinkedIn](https://www.linkedin.com/in/malhar-prajapati/), 
+[Github](https://github.com/malhardp),  
+[Email](malhardp@umich.edu)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
