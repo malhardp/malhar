@@ -7,7 +7,6 @@ Hi! I am a first year Master's student in Aerospace Engineering at the Universit
 
 
 
-
 You can find me on 
 [LinkedIn](https://www.linkedin.com/in/malhar-prajapati/), 
 [Github](https://github.com/malhardp),  
