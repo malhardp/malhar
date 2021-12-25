@@ -6,8 +6,8 @@ published: true
 ---
 Here's is a list of all my project.
 ## 1. Effect of Configuration in Multi-Rotor Wind Turbine
-![5.png]{https://github.com/malhardp/malhar/blob/gh-pages/5.png}
-![1.44.png]{https://github.com/malhardp/malhar/blob/gh-pages/1.44.png}
+![5.png](https://github.com/malhardp/malhar/blob/gh-pages/5.png)
+![1.44.png](https://github.com/malhardp/malhar/blob/gh-pages/1.44.png)
 **Description -** Developed an OpenFOAM based transient CFD solver using HPC for simulating turbulent flow over wind turbine. Validated the tool with NREL Phase VI Wind Turbine’s experimental results with less than 8% error. Analyzed that multirotor configuration is 9% power efficient compared to conventional due to faster wake recovery.\
 **Tools Used -** OpenFOAM, Paraview, Python
 
@@ -37,4 +37,4 @@ Here's is a list of all my project.
 
 ## 8. Multi-parameter Driven Subsonic Contra-Rotating Fan Design
 **Description -** Computed flow parameters and blade angles at mean-line according to pressure ratio and mass flow rate. Generated 3D coordinates of blade points at the hub, mean and tip section for making CAD model. Iterated over Mach Number, blade number and chord for achieving convergence of mass flow in Multall\
-**Tools Used -** C, C++, Multall 
+**Tools Used -** C, C++, Multall
