@@ -12,37 +12,37 @@ Here's is a list of all my project.
 **Tools Used -** OpenFOAM, Paraview, Python
 
 ## 2. Dependency of CFD Model Fidelity on Scramjet Intake Optimization
-![scramjet.png]({{site.baseurl}}/scramjet.png)
+![scramjet.png](https://github.com/malhardp/malhar/blob/gh-pages/scramjet.png)
 
 **Description -** Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
 **Tools Used -** ANSYS Fluent
 
 ## 3. Study of Synchronized Multi-Rotor Aerodynamics
-![micro.png]({{site.baseurl}}/micro.png)
+![micro.png](https://github.com/malhardp/malhar/blob/gh-pages/micro.png)
 
 **Description -** Programmed the Prescribed Wake Model in Python to locate tip vortex and vortex sheet of rotor blade. Enabled the tool to calculate thrust and torque of a multi-rotor configuration using Biot-Savart Law and BEM Theory. Improved the efficiency and compactness of co-rotating coaxial rotor and counter-rotating tandem rotor.\
 **Tools Used -** Python
 
 ## 4. Senior Design Engineer - IIT Bombay Racing Team
-![racing.jpg]({{site.baseurl}}/racing.jpg)
+![racing.jpg](https://github.com/malhardp/malhar/blob/gh-pages/racing.jpg)
 
 **Description -** Designed a reliable double-wishbone suspension system using SolidWorks, ANSYS, OptimumK & MATLAB, Optimized the geometry of front and rear anti-roll bar to enhance the load distribution and improve driver experience. Manufactured, tested and tuned the mechanical components in run condition guiding 10+ juniors. Team achieved the 1st prize in design presentation and 4th overall rank among 97 teams in FSUK-2020\
 **Tools Used -** SolidWorks, ANSYS Fluent, ANSYS Structural, MATLAB, OptimumK
 
 ## 5. CFD Engineer - STAR Orbitals
-![star.jpg]({{site.baseurl}}/star.jpg)
+![star.jpg](https://github.com/malhardp/malhar/blob/gh-pages/star.jpg)
 
 **Description -** Modeled the shape of payload fairing and simulated the flow over it using ANSYS Fluent for various flight conditions. Investigated the sensitivity of the fairing length and the ogive radius in the overall drag vs flight time curve. Optimized the geometry producing 6% less drag and 150 K less tip temperature compared to baseline geometry using Response Surface Optimization (RSO) feature with multiple design and constraint parameters\
 **Tools Used -** ANSYS Fluent
 
 ## 6. Wind Farm Optimization
-![opt.png]({{site.baseurl}}/opt.png)
+![opt.png](https://github.com/malhardp/malhar/blob/gh-pages/opt.png)
 
 **Description -** Implemented Genetic, Simulated Annealing and Pattern Search Algorithms to optimally place the turbines over farm. Validated the optimization codes, compared the configurations and maximum Annual Energy Production (AEP). obtained from various algorithms and evaluated benefits and downsides of using one over another\
 **Tools Used -** Python
 
 ## 7. Influence of Aspect Ratio and Thickness on the Dynamics Stall of a Finite Wing
-![unsteady.png]({{site.baseurl}}/unsteady.png)
+![unsteady.png](https://github.com/malhardp/malhar/blob/gh-pages/unsteady.png)
 
 **Description -** Analyzed the flow over NACA0009 and NACA0012 wings with aspect ratio of 3,4,5 subjected to sinusoidal pitch. oscillations between 4 and 22 degrees at frequency of 27 rad/s and Reynold’s number of 400k. Identified that decreasing the aspect ratio and thickening the wing facilitates in delaying dynamic stall\
 **Tools Used -** OpenFOAM, Paraview
