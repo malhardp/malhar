@@ -1,10 +1,17 @@
 ---
-layout: "post"
-title:  "About"
-date:   2021-12-25 10:21:09 -0500
+layout: post
+title: About
+date: '2021-12-25 10:21:09 -0500'
 categories: post
+published: true
 ---
 Hi! I am a first year Master's student in Aerospace Engineering at the University of Michigan. I completed my bachelor's for the Indian Institute of Technology, Bombay with Honors in Aerospace Engineering and a minor degree in Computer Science and Engineering. 
+
+2. Dependency of CFD Model Fidelity on Scramjet Intake Optimization
+![about]({{site.baseurl}}/assets/scramjet.png)
+
+**Description -** Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
+**Tools Used -** ANSYS Fluent
 
 You can find me on 
 [LinkedIn](https://www.linkedin.com/in/malhar-prajapati/), 
