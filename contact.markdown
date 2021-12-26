@@ -6,7 +6,7 @@ published: true
 ---
 You can contact me on my [LinkedIn](https://www.linkedin.com/in/malhar-prajapati/), [Github](https://github.com/malhardp), [Email](malhardp@umich.edu).
 
-Malhar
+or add your question below:
 
 <form accept-charset="UTF-8" action="https://getform.io/4444" method="POST" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
@@ -18,18 +18,7 @@ Malhar
             <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
           </div>
           <div class="form-group">
-            <label for="exampleFormControlSelect1">Favourite Platform</label>
-            <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
-              <option>Github</option>
-              <option>Gitlab</option>
-              <option>Bitbucket</option>
-            </select>
+            <label for="exampleInputName">Message</label>
+            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
           </div>
-          <hr>
-          <div class="form-group mt-3">
-            <label class="mr-2">Upload your CV:</label>
-            <input type="file" name="file">
-          </div>
-          <hr>
-          <button type="submit" class="btn btn-primary">Submit</button>
         </form>
