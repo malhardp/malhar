@@ -5,10 +5,9 @@ permalink: /Publications/
 published: true
 ---
 Here's is a list of all my publications.
+
 ## 1. Study of Synchronized Multirotor Micro Air Vehicle Aerodynamics
-**Abstract - ** 
-{: style="text-align: justify" }
-Multi-rotor systems, such as coaxial and tandem rotors, can be regarded as a 
+**Abstract -** Multi-rotor systems, such as coaxial and tandem rotors, can be regarded as a 
 next-generation rotor system for full-scale helicopters as well as micro air vehicles 
 (MAVs). Much research is being done to make them more efficient due to their widespread 
 application from defense to drone delivery systems. Since the lower rotor operates in the 
@@ -21,12 +20,10 @@ rotors. The results show a noticeable effect on the overall performance due to t
 synchronization of the rotors, especially in the case of co-rotating coaxial arrangement. 
 This has an important implication that synchronizing MAV rotors could be a key to better 
 efficiency and compact design\
-Link to Paper - [Here](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2626)
+**Link to Paper -** [Here](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2626)
 
 ## 2. Enhancement of the Conventional Wind Turbine Performance using Multi-rotor Configuration
-**Abstract - **
-{: style="text-align: justify" }
-Various designs of the rotor blades, their dimensions and configurations of the 
+**Abstract -** Various designs of the rotor blades, their dimensions and configurations of the 
 rotors are being tested for the wind turbines in order to produce increasingly efficient and 
 economically competitive energy. Rotor wake recovery effects can be leveraged in the 
 multirotor wind turbines for increasing power generation in wind turbine farms. Here, 
@@ -39,4 +36,4 @@ in power generation compared to a single rotor configuration for nearly the same
 force. The final paper will include a detailed analysis of the CFD results with the aim of 
 studying wake interactions, wake recovery, and overall wind farm performance for 
 multirotor configuration.\
-Link to Paper - Here
+**Link to Paper -** Here
