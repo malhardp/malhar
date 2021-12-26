@@ -2,5 +2,7 @@
 layout: page
 title: Gallary
 permalink: /Gallary/
+published: true
 ---
-Add a nice pictures and videos here.
+![single_animation](/assets/single_animation.gif){:class="img-responsive"}
+![multi_animation](/assets/multi_animation.gif){:class="img-responsive"}
