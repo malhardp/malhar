@@ -6,8 +6,8 @@ published: true
 ---
 Here's is a list of all my project.
 ## 1. Effect of Configuration in Multi-Rotor Wind Turbine
-![5.png](https://github.com/malhardp/malhar/blob/gh-pages/5.png)
-![1.44.png](https://github.com/malhardp/malhar/blob/gh-pages/1.44.png)
+![single](/assets/single.png){:class="img-responsive"}
+![multi](/assets/multi.png){:class="img-responsive"}
 **Description -** Developed an OpenFOAM based transient CFD solver using HPC for simulating turbulent flow over wind turbine. Validated the tool with NREL Phase VI Wind Turbine’s experimental results with less than 8% error. Analyzed that multirotor configuration is 9% power efficient compared to conventional due to faster wake recovery.\
 **Tools Used -** OpenFOAM, Paraview, Python
 
