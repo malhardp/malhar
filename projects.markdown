@@ -13,8 +13,8 @@ Here's is a list of all my project.
 
 ## 2. Dependency of CFD Model Fidelity on Scramjet Intake Optimization
 ![scramjet.png](/assets/scramjet.png){:class="img-responsive"}
-<img src="https://github.com/malhardp/malhar/blob/gh-pages/assets/scramjet.png" width="100" height="100" border="10"/>
-**Description -** New Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
+
+**Description -** Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
 **Tools Used -** ANSYS Fluent
 
 ## 3. Study of Synchronized Multi-Rotor Aerodynamics
