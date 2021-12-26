@@ -7,6 +7,7 @@ published: true
 Here's is a list of all my publications.
 
 ## 1. Study of Synchronized Multirotor Micro Air Vehicle Aerodynamics
+{: style="text-align: justify" }
 **Abstract -** Multi-rotor systems, such as coaxial and tandem rotors, can be regarded as a 
 next-generation rotor system for full-scale helicopters as well as micro air vehicles 
 (MAVs). Much research is being done to make them more efficient due to their widespread 
@@ -23,6 +24,7 @@ efficiency and compact design\
 **Link to Paper -** [Here](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2626)
 
 ## 2. Enhancement of the Conventional Wind Turbine Performance using Multi-rotor Configuration
+{: style="text-align: justify" }
 **Abstract -** Various designs of the rotor blades, their dimensions and configurations of the 
 rotors are being tested for the wind turbines in order to produce increasingly efficient and 
 economically competitive energy. Rotor wake recovery effects can be leveraged in the 
