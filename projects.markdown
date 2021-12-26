@@ -6,14 +6,13 @@ published: true
 ---
 Here's is a list of all my project.
 ## 1. Effect of Configuration in Multi-Rotor Wind Turbine
-![image]({{site.baseurl}}/5.png)
 ![5.png](https://github.com/malhardp/malhar/blob/gh-pages/5.png)
 ![1.44.png](https://github.com/malhardp/malhar/blob/gh-pages/1.44.png)
 **Description -** Developed an OpenFOAM based transient CFD solver using HPC for simulating turbulent flow over wind turbine. Validated the tool with NREL Phase VI Wind Turbine’s experimental results with less than 8% error. Analyzed that multirotor configuration is 9% power efficient compared to conventional due to faster wake recovery.\
 **Tools Used -** OpenFOAM, Paraview, Python
 
 ## 2. Dependency of CFD Model Fidelity on Scramjet Intake Optimization
-![scramjet.png](https://github.com/malhardp/malhar/blob/gh-pages/scramjet.png)
+![scramjet.png]({{/assets/scramjet.png}})
 
 **Description -** Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
 **Tools Used -** ANSYS Fluent
