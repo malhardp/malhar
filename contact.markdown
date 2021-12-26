@@ -21,4 +21,5 @@ or add your question below:
             <label for="exampleInputName">Message</label>
             <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
           </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
         </form>
