@@ -12,8 +12,7 @@ Here's is a list of all my project.
 **Tools Used -** OpenFOAM, Paraview, Python
 
 ## 2. Dependency of CFD Model Fidelity on Scramjet Intake Optimization
-![scramjet.png]({{/assets/scramjet.png}})
-
+![about](/assets/scramjet.png){:class="img-responsive"}
 **Description -** Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
 **Tools Used -** ANSYS Fluent
 
