@@ -11,28 +11,28 @@ Here's is a list of all my project.
 **Description -** Developed an OpenFOAM based transient CFD solver using HPC for simulating turbulent flow over wind turbine. Validated the tool with NREL Phase VI Wind Turbine’s experimental results with less than 8% error. Analyzed that multirotor configuration is 9% power efficient compared to conventional due to faster wake recovery.\
 **Tools Used -** OpenFOAM, Paraview, Python
 
-## 2. Dependency of CFD Model Fidelity on Scramjet Intake Optimization
-![scramjet.png](/assets/scramjet.png){:class="img-responsive"}
-
-**Description -** Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
-**Tools Used -** ANSYS Fluent
-
-## 3. Study of Synchronized Multi-Rotor Aerodynamics
+## 2. Study of Synchronized Multi-Rotor Aerodynamics
 ![micro.png](/assets/micro.png){:class="img-responsive"}
 
 **Description -** Programmed the Prescribed Wake Model in Python to locate tip vortex and vortex sheet of rotor blade. Enabled the tool to calculate thrust and torque of a multi-rotor configuration using Biot-Savart Law and BEM Theory. Improved the efficiency and compactness of co-rotating coaxial rotor and counter-rotating tandem rotor.\
 **Tools Used -** Python
 
-## 4. Senior Design Engineer - IIT Bombay Racing Team
+## 3. Senior Design Engineer - IIT Bombay Racing Team
 ![racing.jpg](/assets/racing.jpg){:class="img-responsive"}
 
 **Description -** Designed a reliable double-wishbone suspension system using SolidWorks, ANSYS, OptimumK & MATLAB, Optimized the geometry of front and rear anti-roll bar to enhance the load distribution and improve driver experience. Manufactured, tested and tuned the mechanical components in run condition guiding 10+ juniors. Team achieved the 1st prize in design presentation and 4th overall rank among 97 teams in FSUK-2020\
 **Tools Used -** SolidWorks, ANSYS Fluent, ANSYS Structural, MATLAB, OptimumK
 
-## 5. CFD Engineer - STAR Orbitals
+## 4. CFD Engineer - STAR Orbitals
 ![star.jpg](/assets/star.jpg){:class="img-responsive"}
 
 **Description -** Modeled the shape of payload fairing and simulated the flow over it using ANSYS Fluent for various flight conditions. Investigated the sensitivity of the fairing length and the ogive radius in the overall drag vs flight time curve. Optimized the geometry producing 6% less drag and 150 K less tip temperature compared to baseline geometry using Response Surface Optimization (RSO) feature with multiple design and constraint parameters\
+**Tools Used -** ANSYS Fluent
+
+## 5. Dependency of CFD Model Fidelity on Scramjet Intake Optimization
+![scramjet.png](/assets/scramjet.png){:class="img-responsive"}
+
+**Description -** Simulated the hypersonic flow in ANSYS Fluent to analyze the sensitivity of objective and constraints wrt to design variables. Implemented various CFD models and conducted Multi-Objective Genetic Algorithm (MOGA) to optimize geometry. Evaluated the dependence of optimized geometry and sensitivity analysis on the fidelity of CFD models.\
 **Tools Used -** ANSYS Fluent
 
 ## 6. Wind Farm Optimization
@@ -48,6 +48,7 @@ Here's is a list of all my project.
 **Tools Used -** OpenFOAM, Paraview
 
 ## 8. Multi-parameter Driven Subsonic Contra-Rotating Fan Design
+![fan.png](/assets/fan.png){:class="img-responsive"}
 
 **Description -** Computed flow parameters and blade angles at mean-line according to pressure ratio and mass flow rate. Generated 3D coordinates of blade points at the hub, mean and tip section for making CAD model. Iterated over Mach Number, blade number and chord for achieving convergence of mass flow in Multall\
 **Tools Used -** C, C++, Multall
