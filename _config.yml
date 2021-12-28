@@ -28,7 +28,7 @@ github_username:  malhardp
 linkedin_username: malhar-prajapati
 
 # Build settings
-remote_theme: benbalter/retlab
+theme: minima
 plugins:
   - jekyll-feed
 
