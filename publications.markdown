@@ -26,7 +26,8 @@ efficiency and compact design.
 {: style="text-align: justify" }
 **Link to Paper -** [Here](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2626)
 
-## 2. Enhancement of the Conventional Wind Turbine Performance using Multi-rotor Configuration
+## Enhancement of the Conventional Wind Turbine Performance using Multi-rotor Configuration
+
 {: style="text-align: justify" }
 **Abstract -** Various designs of the rotor blades, their dimensions and configurations of the 
 rotors are being tested for the wind turbines in order to produce increasingly efficient and 
@@ -40,5 +41,7 @@ that the NREL Phase VI Wind Turbine’s multirotor configuration gives a notable
 in power generation compared to a single rotor configuration for nearly the same thrust
 force. The final paper will include a detailed analysis of the CFD results with the aim of 
 studying wake interactions, wake recovery, and overall wind farm performance for 
-multirotor configuration.\
+multirotor configuration.
+
+{: style="text-align: justify" }
 **Link to Paper -** Here
