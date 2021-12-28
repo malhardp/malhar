@@ -28,7 +28,7 @@ github_username:  malhardp
 linkedin_username: malhar-prajapati
 
 # Build settings
-theme: cayman
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
