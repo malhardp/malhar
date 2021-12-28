@@ -2,5 +2,6 @@
 layout: page
 title: Home
 permalink: /Home/
+published: true
 ---
-Add a nice picture here.
+![front](/assets/front.jpg)
