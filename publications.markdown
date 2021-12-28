@@ -6,9 +6,9 @@ published: true
 ---
 Here's is a list of my publications.
 
-<img src="https://github.com/malhardp/malhar/blob/gh-pages/assets/paper1.png">
+![paper1.png](/assets/paper1.png)
 {: style="text-align: justify" }
-**Abstract -** Multi-rotor systems, such as coaxial and tandem rotors, can be regarded as a 
+Abstract - Multi-rotor systems, such as coaxial and tandem rotors, can be regarded as a 
 next-generation rotor system for full-scale helicopters as well as micro air vehicles 
 (MAVs). Much research is being done to make them more efficient due to their widespread 
 application from defense to drone delivery systems. Since the lower rotor operates in the 
