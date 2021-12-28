@@ -7,6 +7,7 @@ published: true
 Here's is a list of my publications.
 
 ![paper1.png](/assets/paper1.png)
+
 {: style="text-align: justify" }
 Abstract - Multi-rotor systems, such as coaxial and tandem rotors, can be regarded as a 
 next-generation rotor system for full-scale helicopters as well as micro air vehicles 
@@ -20,7 +21,7 @@ to predict the performance of synchronized and non-synchronized coaxial and tand
 rotors. The results show a noticeable effect on the overall performance due to the 
 synchronization of the rotors, especially in the case of co-rotating coaxial arrangement. 
 This has an important implication that synchronizing MAV rotors could be a key to better 
-efficiency and compact design\
+efficiency and compact design.
 **Link to Paper -** [Here](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2626)
 
 ## 2. Enhancement of the Conventional Wind Turbine Performance using Multi-rotor Configuration
