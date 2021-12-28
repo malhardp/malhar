@@ -28,7 +28,7 @@ github_username:  malhardp
 linkedin_username: malhar-prajapati
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
