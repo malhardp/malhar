@@ -4,9 +4,9 @@ title: Publications
 permalink: /Publications/
 published: true
 ---
-Here's is a list of all my publications.
+Here's is a list of my publications.
 
-## 1. Study of Synchronized Multirotor Micro Air Vehicle Aerodynamics
+![paper1.png](/assets/paper1.png)
 {: style="text-align: justify" }
 **Abstract -** Multi-rotor systems, such as coaxial and tandem rotors, can be regarded as a 
 next-generation rotor system for full-scale helicopters as well as micro air vehicles 
