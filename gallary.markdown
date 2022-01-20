@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gallary
-permalink: /Gallary/
+title: Gallery
+permalink: /Gallery/
 published: true
 ---
 ![single_animation](/assets/single_animation.gif)
