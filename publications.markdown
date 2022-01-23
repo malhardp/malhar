@@ -26,7 +26,7 @@ efficiency and compact design.
 {: style="text-align: justify" }
 **Link to Paper -** [Here](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2626)
 
-## Enhancement of the Conventional Wind Turbine Performance using Multi-rotor Configuration
+![paper2.png](/assets/paper2.png)
 
 {: style="text-align: justify" }
 **Abstract -** Various designs of the rotor blades, their dimensions and configurations of the 
@@ -44,4 +44,4 @@ studying wake interactions, wake recovery, and overall wind farm performance for
 multirotor configuration.
 
 {: style="text-align: justify" }
-**Link to Paper -** Here
+**Link to Paper -** [Here](https://arc.aiaa.org/doi/abs/10.2514/6.2022-1019)
